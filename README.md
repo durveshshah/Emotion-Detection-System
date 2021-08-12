@@ -13,7 +13,7 @@ Pixels will contain 48 x 48 image of grayscale intensity of different emotions w
 Finally, the usage column will tell whether it is a training dataset or testing dataset.
 
 Download the Dataset from Kaggle: https://www.kaggle.com/msambare/fer2013/download.
-Create a folder `data` and extract the contents of the archive into that data folder
+
 
 ## Required packages
 OpenCV, Tensorflow.keras, Matplotlib, Numpy, os, Python 3
@@ -34,6 +34,8 @@ Overall Accuracy achieved: 65 %
 ### Manual Testing Accuracy Table:
 ![Manual Testing Table](https://user-images.githubusercontent.com/82860064/129216619-7228455c-723e-4df1-87e9-056bb2469c41.PNG)
 
+# Tree Structure
+Create a folder `data` and extract the contents of the archive into that data folder. For your convenience, I have already added `data` folder in the directory. You just have to extract the contents downloaded from kaggle into that folder to download the complete dataset.
 
 ## Acknowledgements
 I would like to thank the authors from different associations and conferences that helped me contribute to develop this project. 
