@@ -4,7 +4,8 @@ The characteristic of my project is to encourage a strong design that can percei
 ## Introduction
 This project targets a person's emotion from a webcamera using Convolutional Neural Networks (CNN) and Haar Cascade Classifiers. The motivation behind this study is to extract main features of emotion detection and its classifiers on the most proficient method to detect the feelings utilizing Convolutional Neural Networks (CNN) and Haar Cascade Classifiers.
 
-![Emotion Detection Block Diagram](https://user-images.githubusercontent.com/82860064/129214953-82147df2-c71c-4b72-9169-7382be9fb573.PNG)
+![Emotions](https://user-images.githubusercontent.com/37297153/129219805-ff818916-db0b-4964-8901-3e9f43f5dc45.png)
+
 
 ## Dataset
 I have used ICML (International Conference on Machine Learning) FERC-2013 dataset. The dataset which we used consists of 3 columns. Emotions, pixels and Usage respectively. Emotion index contains emotion index (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral).
@@ -42,6 +43,6 @@ I would like to thank the authors from different associations and conferences th
 * Sang, Dinh Viet, and Nguyen Van Dat. "Facial expression recognition using deep convolutional neural networks." 2017 9th International Conference on Knowledge and Systems   Engineering (KSE). IEEE, 2017.
 * Mehendale, Ninad. "Facial emotion recognition using convolutional neural networks (FERC)." SN Applied Sciences 2.3 (2020): 1-8.
 * Zhou, Shuai, et al. "Facial expression recognition based on multi-scale cnns." Chinese Conference on Biometric Recognition. Springer, Cham, 2016.
-*  Puri, Raghav, et al. "Emotion detection using image processing in python." arXiv preprint arXiv:2012.00659 (2020).
-
+* Puri, Raghav, et al. "Emotion detection using image processing in python." arXiv preprint arXiv:2012.00659 (2020).
+* Verma, Prakash. “Detect Facial Emotions on Mobile and IoT Devices Using TensorFlow Lite.” Medium, 20 Jan. 2021, heartbeat.fritz.ai/detect-facial-emotions-on-mobile-and-iot- devices-using-tensorflow-lite-e98e7a48c309.
 
