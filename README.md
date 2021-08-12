@@ -28,7 +28,7 @@ The `FERC- 2013` dataset is located in the model folder. To train the data you c
 ## Data Loading and Predictions
 To predict the emotions run Load_model.py. As soon as you load the model, it will start the webcam and starts predicting your emotions. The accuracy is 65 % in 20 epochs. It is a `4-layer Convolutional Neural Network`. To draw the box around the face, you will need to Haar-Cascade. I have included `haarcascade_frontalface_default.xml` file that is used in Load_model.py
 
-## Results
+# Results
 Overall Accuracy achieved: 65 %
 ### Manual Testing Accuracy Table:
 ![Manual Testing Table](https://user-images.githubusercontent.com/82860064/129216619-7228455c-723e-4df1-87e9-056bb2469c41.PNG)
