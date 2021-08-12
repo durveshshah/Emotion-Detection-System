@@ -34,7 +34,7 @@ Overall Accuracy achieved: 65 %
 ### Manual Testing Accuracy Table:
 ![Manual Testing Table](https://user-images.githubusercontent.com/82860064/129216619-7228455c-723e-4df1-87e9-056bb2469c41.PNG)
 
-# Tree Structure
+# Structure
 Create a folder `data` and extract the contents of the archive into that data folder. For your convenience, I have already added `data` folder in the directory. You just have to extract the contents downloaded from kaggle into that folder to download the complete dataset.
 
 ## Acknowledgements
