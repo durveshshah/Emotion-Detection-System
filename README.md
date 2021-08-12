@@ -20,9 +20,9 @@ OpenCV, Tensorflow.keras, Matplotlib, Numpy, os, Python 3
 ## Optional packages
 If you don't have higher gpu, I would recommend using `Google Colab` and only if you are training your model in Google Colab you would require `from google.colab.patches import cv2_imshow` because cv2.imshow will not work on google colab. After importing the required packages you will need to use cv2_imshow directly to open the webcam.
 
+# Usage 
 ## Data Training
 The `FERC- 2013` dataset is located in the model folder. To train the data you can just run Emotion_trainer.py and the program will run upto 20 epochs. You may change the number of epochs to adjust accuracy. After training the model a model file will be saved naming `model.h5`.
-
 
 
 ## Data Loading and Predictions
