@@ -46,4 +46,7 @@ I would like to thank the authors from different associations and conferences th
 * Zhou, Shuai, et al. "Facial expression recognition based on multi-scale cnns." Chinese Conference on Biometric Recognition. Springer, Cham, 2016.
 * Puri, Raghav, et al. "Emotion detection using image processing in python." arXiv preprint arXiv:2012.00659 (2020).
 * Verma, Prakash. “Detect Facial Emotions on Mobile and IoT Devices Using TensorFlow Lite.” Medium, 20 Jan. 2021, heartbeat.fritz.ai/detect-facial-emotions-on-mobile-and-iot- devices-using-tensorflow-lite-e98e7a48c309.
+* Team, Keras. “Keras Documentation: The Sequential Model.” Keras, keras.io/guides/sequential_model. Accessed 13 Aug. 2021.
+* “Convolutional Neural Networks in Python.” DataCamp Community, www.datacamp.com/community/tutorials/convolutional-neural-networks-python. Accessed 13 Aug. 2021
+* Mittal, Aditya. “Haar Cascades, Explained - Analytics Vidhya.” Medium, 26 June 2021, medium.com/analytics-vidhya/haar-cascades-explained-38210e57970d.
 
