@@ -31,8 +31,6 @@ To predict the emotions run Load_model.py. As soon as you load the model, it wil
 
 # Results
 Overall Accuracy achieved: 65 %
-### Manual Testing Accuracy Table:
-![Manual Testing Table](https://user-images.githubusercontent.com/82860064/129216619-7228455c-723e-4df1-87e9-056bb2469c41.PNG)
 
 # Structure
 Create a folder `data` and extract the contents of the archive into that data folder. 
