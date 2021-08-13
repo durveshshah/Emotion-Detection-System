@@ -49,4 +49,6 @@ I would like to thank the authors from different associations and conferences th
 * Team, Keras. “Keras Documentation: The Sequential Model.” Keras, keras.io/guides/sequential_model. Accessed 13 Aug. 2021.
 * “Convolutional Neural Networks in Python.” DataCamp Community, www.datacamp.com/community/tutorials/convolutional-neural-networks-python. Accessed 13 Aug. 2021
 * Mittal, Aditya. “Haar Cascades, Explained - Analytics Vidhya.” Medium, 26 June 2021, medium.com/analytics-vidhya/haar-cascades-explained-38210e57970d.
+* GeeksforGeeks. “Keras.Fit() and Keras.Fit_generator().” GeeksforGeeks, 25 June 2020, www.geeksforgeeks.org/keras-fit-and-keras-fit_generator.
+* Rosebrock, Adrian. “How to Use Keras Fit and Fit_generator (a Hands-on Tutorial).” PyImageSearch, 5 July 2021, www.pyimagesearch.com/2018/12/24/how-to-use-keras-fit-and-fit_generator-a-hands-on-tutorial.
 
