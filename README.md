@@ -19,7 +19,7 @@ Download the Dataset from Kaggle: https://www.kaggle.com/msambare/fer2013/downlo
 OpenCV, Tensorflow.keras, Matplotlib, Numpy, os, Python 3
 
 ## Optional packages
-If you don't have higher gpu, I would recommend using `Google Colab` and only if you are training your model in Google Colab you would require `from google.colab.patches import cv2_imshow` because cv2.imshow will not work on google colab. After importing the required packages you will need to use cv2_imshow directly to open the webcam.
+If you don't have higher gpu, I would recommend using `Google Colab` and only if you are training your model in Google Colab you would require `from google.colab.patches import cv2_imshow` because cv2.imshow will not work on google colab. After importing the required packages replace cv2.imshow with cv2_imshow directly to open the webcam.
 
 # Usage 
 ## Data Training
