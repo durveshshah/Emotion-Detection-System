@@ -21,6 +21,35 @@ OpenCV, Tensorflow.keras, Matplotlib, Numpy, os, Python 3
 ## Optional packages
 If you don't have higher gpu, I would recommend using `Google Colab` and only if you are training your model in Google Colab you would require `from google.colab.patches import cv2_imshow` because cv2.imshow will not work on google colab. After importing the required packages replace cv2.imshow with cv2_imshow directly to open the webcam.
 
+
+# Installation
+
+Simply run `python3 Model_trainer.py` on Linux terminal.
+Run `python Model_trainer.py` on Windows command prompt.
+
+After training the model, run the same steps mentioned above and run `Load_model.py` to see the actual results. 
+
+Steps to install tensorflow keras on Linux/Ubuntu
+
+1. Install python on Linux - `sudo apt install python3 python3.pip`
+2. Upgarde python - `sudo pip3 install ––upgrade pip`
+3. Upgrade Steup tools - `pip3 install ––upgrade setuptools`
+4. Install TensorFlow - `pip3 install tensorflow`
+5. Install Keras - `pip3 install keras`
+
+Steps to install on Windows
+1. Download python3 from https://www.python.org/downloads/
+2. pip install tensorflow
+3. pip install keras
+
+
+Steps to Install Keras from Git
+1. `git clone https://github.com/keras-team/keras.git`
+2. `cd keras`
+3. `sudo python3 setup.py install`
+
+
+
 # Usage 
 ## Data Training
 The `FERC- 2013` dataset is located in the model folder. To train the data you can just run Emotion_trainer.py and the program will run upto 20 epochs. You may change the number of epochs to adjust accuracy. After training the model a model file will be saved naming `model.h5`.
