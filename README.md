@@ -24,12 +24,15 @@ If you don't have higher gpu, I would recommend using `Google Colab` and only if
 
 # Installation
 
-Simply run `python3 Model_trainer.py` on Linux terminal.
-Run `python Model_trainer.py` on Windows command prompt.
+##Install OpenCV library on Linux/Ubuntu
 
-After training the model, run the same steps mentioned above and run `Load_model.py` to see the actual results. 
+1. Open terminal and type `sudo apt install python3-opencv`
 
-Steps to install tensorflow keras on Linux/Ubuntu
+## Install OpenCV library on Windows
+
+1. Open Command Prompt and type `pip install opencv-python`
+
+## Steps to install tensorflow keras on Linux/Ubuntu terminal
 
 1. Install python on Linux - `sudo apt install python3 python3.pip`
 2. Upgarde python - `sudo pip3 install ––upgrade pip`
@@ -37,18 +40,23 @@ Steps to install tensorflow keras on Linux/Ubuntu
 4. Install TensorFlow - `pip3 install tensorflow`
 5. Install Keras - `pip3 install keras`
 
-Steps to install on Windows
+## Steps to install on Windows commandprompt
 1. Download python3 from https://www.python.org/downloads/
 2. pip install tensorflow
 3. pip install keras
 
 
-Steps to Install Keras from Git
+## Steps to Install Keras from Git
 1. `git clone https://github.com/keras-team/keras.git`
 2. `cd keras`
 3. `sudo python3 setup.py install`
 
+# Running the application
 
+1. Simply run `python3 Model_trainer.py` on Linux terminal.
+2. Run `python Model_trainer.py` on Windows command prompt.
+
+After training the model, run the same steps mentioned above and run `Load_model.py` to see the actual results. 
 
 # Usage 
 ## Data Training
