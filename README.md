@@ -29,11 +29,21 @@ The `FERC- 2013` dataset is located in the model folder. To train the data you c
 ## Data Loading and Predictions
 To predict the emotions run Load_model.py. As soon as you load the model, it will start the webcam and starts predicting your emotions. The accuracy is 65 % in 20 epochs. It is a `4-layer Convolutional Neural Network`. To draw the box around the face, you will need to Haar-Cascade. I have included `haarcascade_frontalface_default.xml` file that is used in Load_model.py
 
+
 # Results
 Overall Accuracy achieved: 65 %
 
 # Structure
 Create a folder `data` and extract the contents of the archive into that data folder. 
+
+# Badges
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
+![Conda](https://img.shields.io/conda/pn/conda-forge/py?color=gre)
+![Codacy grade](https://img.shields.io/codacy/grade/a994873f30d045b9b4b83606c3eb3498)
+![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/mocha)
+![PyPI - License](https://img.shields.io/pypi/l/Django)
+![Conda](https://img.shields.io/conda/v/conda-forge/python)
+
 ## Acknowledgements
 I would like to thank the authors from different associations and conferences that helped me contribute to develop this project. 
 
