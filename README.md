@@ -63,8 +63,9 @@ After training the model, run the same steps mentioned above and run `Load_model
 
 # Usage 
 ## Data Training
-The `FERC- 2013` dataset is located in the model folder. To train the data you can just run Emotion_trainer.py and the program will run upto 20 epochs. You may change the number of epochs to adjust accuracy. After training the model a model file will be saved naming `model.h5`.
+The `FERC- 2013` dataset can be downloaded from Kaggle (Link given above). To train the data you can just run Model_trainer.py and the program will run upto 20 epochs. You may change the number of epochs to adjust accuracy. After training the model a model file will be saved naming `model.h5`.
 
+`Create a folder data and extract the contents of the archive you downloaded from kaggle into that data folder.`
 
 ## Data Loading and Predictions
 To predict the emotions run Load_model.py. As soon as you load the model, it will start the webcam and starts predicting your emotions. The accuracy is 65 % in 20 epochs. It is a `4-layer Convolutional Neural Network`. To draw the box around the face, you will need to Haar-Cascade. I have included `haarcascade_frontalface_default.xml` file that is used in Load_model.py
