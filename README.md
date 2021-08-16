@@ -40,16 +40,16 @@ If you don't have higher gpu, I would recommend using `Google Colab` and only if
 4. Install TensorFlow - `pip3 install tensorflow`
 5. Install Keras - `pip3 install keras`
 
-## Steps to install on Windows commandprompt
+## Steps to install on Windows command prompt
 1. Download python3 from https://www.python.org/downloads/
 2. pip install tensorflow
 3. pip install keras
 
 
 ## Steps to Install Keras from Git
-1. `git clone https://github.com/keras-team/keras.git`
-2. `cd keras`
-3. `sudo python3 setup.py install`
+1. git clone https://github.com/keras-team/keras.git
+2. cd keras
+3. sudo python3 setup.py install
 
 # Running the application
 
