@@ -33,23 +33,26 @@ If you don't have higher gpu, I would recommend using `Google Colab` and only if
 1. Open Command Prompt and type `pip install opencv-python`
 
 ## Steps to install tensorflow keras on Linux/Ubuntu terminal
-
+```
 1. Install python on Linux - `sudo apt install python3 python3.pip`
 2. Upgarde python - `sudo pip3 install ––upgrade pip`
 3. Upgrade Steup tools - `pip3 install ––upgrade setuptools`
 4. Install TensorFlow - `pip3 install tensorflow`
 5. Install Keras - `pip3 install keras`
-
+```
 ## Steps to install on Windows command prompt
+```
 1. Download python3 from https://www.python.org/downloads/
 2. pip install tensorflow
 3. pip install keras
-
+```
 
 ## Steps to Install Keras from Git
+```
 1. git clone https://github.com/keras-team/keras.git
 2. cd keras
 3. sudo python3 setup.py install
+```
 
 # Running the application
 
