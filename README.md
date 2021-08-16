@@ -24,7 +24,7 @@ If you don't have higher gpu, I would recommend using `Google Colab` and only if
 
 # Installation
 
-##Install OpenCV library on Linux/Ubuntu
+## Install OpenCV library on Linux/Ubuntu
 
 1. Open terminal and type `sudo apt install python3-opencv`
 
