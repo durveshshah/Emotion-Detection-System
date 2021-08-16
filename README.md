@@ -74,8 +74,6 @@ To predict the emotions run Load_model.py. As soon as you load the model, it wil
 # Results
 Overall Accuracy achieved: 65 %
 
-# Structure
-Create a folder `data` and extract the contents of the archive into that data folder. 
 
 # Badges
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
